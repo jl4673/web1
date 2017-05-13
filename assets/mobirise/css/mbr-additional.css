@@ -416,6 +416,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #d70e0e;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -654,8 +657,6 @@ h6,
 
 
 
-
-
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -737,54 +738,50 @@ h6,
 }
 #msg-box5-15 P {
   font-size: 20px;
+  text-align: left;
 }
 #msg-box5-15 H3 {
   font-size: 36px;
+  text-align: left;
 }
 #msg-box5-16 P {
   font-size: 20px;
+  text-align: left;
 }
 #msg-box5-16 H3 {
   font-size: 36px;
+  text-align: left;
 }
 #msg-box5-17 P {
   font-size: 20px;
+  text-align: left;
 }
 #msg-box5-17 H3 {
   font-size: 36px;
+  text-align: left;
 }
 #msg-box5-18 P {
   font-size: 20px;
+  text-align: left;
 }
 #msg-box5-18 H3 {
   font-size: 36px;
+  text-align: left;
 }
 #msg-box5-1a P {
   font-size: 20px;
+  text-align: left;
 }
 #msg-box5-1a H3 {
   font-size: 36px;
+  text-align: left;
 }
 #msg-box5-1b P {
   font-size: 20px;
+  text-align: left;
 }
 #msg-box5-1b H3 {
   font-size: 36px;
-}
-#features3-0 H4 {
-  text-align: left;
-}
-#features3-0 P {
-  text-align: left;
-  font-family: 'Droid Sans', sans-serif;
-  font-size: 18px;
-}
-#features3-1 P {
-  font-family: 'Droid Sans', sans-serif;
-  font-size: 18px;
-  text-align: left;
-}
-#features3-1 H4 {
   text-align: left;
 }
 #testimonials1-2 .mbr-section-title {
@@ -805,5 +802,5 @@ h6,
 #form1-4 SMALL {
   text-align: left;
   font-size: 20px;
-  color: #7c706b;
+  color: #000000;
 }
