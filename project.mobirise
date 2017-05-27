@@ -85,8 +85,8 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLEARPATH OUTDOOR &nbsp;317-331-8097</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"true\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-2\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html#msg-box3-6\">CONTACT</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLEARPATH &nbsp;317-331-8097</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-4\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"mailto:JL4673@yahoo.com\">EMAIL</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -114,7 +114,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -123,7 +123,7 @@
             "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -132,7 +132,7 @@
           },
           "title": "CLEARPATH <span style=\"font-weight: normal;\">OUTDOOR</span>",
           "text": "<b>Professional Stump Removal in Central Indiana. <br></b><br><b>If you have one stump or many, large or small, we're here to help with your project.  Please Call or Text for a Free Estimate: &nbsp;317-331-8097</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE ESTIMATE</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"mailto:jl4673@yahoo.com\" data-toolbar=\"-mbrBtnMove\">FREE ESTIMATE</a> "
         },
         {
           "_tags": [
@@ -211,7 +211,7 @@
             }
           },
           "title1": "PROFESSIONAL SERVICE",
-          "caption1": "<b>ClearPath Outdoor was founded by a Purdue Landscape Architect experienced in outdoor construction.  We offer prompt and reliable stump grinding services and can also help with any question you might have about your landscape.</b><br>",
+          "caption1": "<b>ClearPath Outdoor was founded by a Purdue Landscape Architect with 25 years experience in outdoor construction.  We hope to offer a new level of Professional Service.</b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -259,7 +259,7 @@
             }
           },
           "title3": "RESPONSIVE",
-          "caption3": "<b>We'll reply to your request the same day and most projects are scheduled to begin the same week. With powerful equipment, we'll work quickly to minimize the disruption at your home.</b><br>",
+          "caption3": "<b>We'll reply to your request today and most projects are scheduled within a week. With a powerful machine, we'll work quickly to minimize the noise at your home.</b><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -397,7 +397,7 @@
             }
           },
           "title1": "PRO EQUIPMENT",
-          "caption1": "<b>We're equipped with the latest stump grinding equipment. Our compact machine will allow us to reach stumps with little to no lawn damage and we can easily fit through a 36\" gate.</b><br>",
+          "caption1": "<b>We use the latest professional stump grinding equipment. Our compact machine will allow us to reach stumps with little to no lawn damage and we can easily fit through a 36\" gate.</b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -421,7 +421,7 @@
             }
           },
           "title2": "SAFE AND INSURED",
-          "caption2": "<b>We follow pro safety standards, including utility location, personal safety gear and guard screens around our machine to protect your home. We're also fully insured to work on your property.</b><br>",
+          "caption2": "<b>We follow pro safety standards, including utility location, personal safety gear and guard screens around our machine to protect your home. We're fully insured to work at your home or business.</b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -445,7 +445,7 @@
             }
           },
           "title3": "RECYCLE!",
-          "caption3": "<b>We'll grind your stump and surface roots to a depth of 8\"-12\", leaving you with a neat pile of wood chips in it's place. This valuable mulch can be used later in a natural bed area or compost pile. Recycle your tree stump!</b><br>",
+          "caption3": "<b>We'll grind your stump and surface roots to a depth of 8\"-12\", leaving you with a neat pile of wood chips in it's place. The valuable mulch can be later used in a natural bed area or compost pile. Recycle your tree stump!</b><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -509,63 +509,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "30px",
-              "color": "#e25041"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article P": {
-              "font-size": "20px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff"
-            },
-            ".mbr-article B": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-6",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "FREE ESTIMATE",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Please send us a note if you would like to schedule a Free Estimate at your home. &nbsp;If you would like a quick estimate today, please send a detailed description of your project. &nbsp;Thanks for writing!</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -576,7 +519,7 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "30px",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
@@ -586,19 +529,19 @@
           },
           "_anchor": "form1-3",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#7c706b",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "CONTACT:",
+          "title": "FREE ESTIMATE:",
           "form": {
             "action": "jl4673@yahoo.com",
             "alerts": {

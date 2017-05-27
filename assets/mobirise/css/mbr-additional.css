@@ -15,9 +15,6 @@
 
 
 
-
-
-
 #dropdown-menu-2btn-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -91,30 +88,11 @@
   font-size: 18px;
   color: #000000;
 }
-#msg-box3-6 .mbr-header .mbr-header__text {
-  text-align: left;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 30px;
-  color: #e25041;
-}
-#msg-box3-6 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-6 .mbr-article P {
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
-  color: #ffffff;
-}
-#msg-box3-6 .mbr-article B {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
-  color: #000000;
-}
 #form1-3 .mbr-header__text {
   text-align: left;
   font-family: 'Open Sans', sans-serif;
   font-size: 30px;
-  color: #000000;
+  color: #ffffff;
 }
 #form1-3 .btn {
   font-family: 'Open Sans', sans-serif;
