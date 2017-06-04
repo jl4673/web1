@@ -54,6 +54,9 @@
   font-family: 'Open Sans', sans-serif;
   font-size: 22px;
 }
+#header1-1 B {
+  font-size: 20px;
+}
 #features1-4 .mbr-section__col .mbr-header__text {
   text-align: left;
   font-family: 'Open Sans', sans-serif;
@@ -100,7 +103,7 @@
 }
 #contacts1-7 P {
   font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
+  font-size: 14px;
 }
 #contacts1-7 STRONG {
   font-size: 16px;

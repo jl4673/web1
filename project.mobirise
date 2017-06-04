@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -85,8 +85,8 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLEARPATH &nbsp;317-331-8097</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-4\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"mailto:JL4673@yahoo.com\">EMAIL</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLEARPATH OUTDOOR &nbsp; 317-331-8097</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-4\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"mailto:clearpathoutdoor@gmail.com\">EMAIL</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -108,13 +108,16 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "22px"
+            },
+            "B": {
+              "font-size": "20px"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-trail-2000x1334.png",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -123,14 +126,14 @@
             "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.3",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "showArrow": true
           },
-          "title": "CLEARPATH <span style=\"font-weight: normal;\">OUTDOOR</span>",
+          "title": "<br><br><span style=\"color: inherit;\">CLEARPATH </span><span style=\"color: inherit; font-weight: normal;\">OUTDOOR</span><br>",
           "text": "<b>Professional Stump Removal in Central Indiana. <br></b><br><b>If you have one stump or many, large or small, we're here to help with your project.  Please Call or Text for a Free Estimate: &nbsp;317-331-8097</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"mailto:jl4673@yahoo.com\" data-toolbar=\"-mbrBtnMove\">FREE ESTIMATE</a> "
         },
@@ -164,7 +167,7 @@
           },
           "_anchor": "features1-4",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -211,7 +214,7 @@
             }
           },
           "title1": "PROFESSIONAL SERVICE",
-          "caption1": "<b>ClearPath Outdoor was founded by a Purdue Landscape Architect with 25 years experience in outdoor construction.  We hope to offer a new level of Professional Service.</b><br>",
+          "caption1": "<b>ClearPath Outdoor was founded by a Purdue Landscape Architect with 25 years of outdoor project experience. &nbsp;We hope to provide</b><b>&nbsp;a new standard of service in stump removal.</b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -378,7 +381,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beach-trail-600x400.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -388,7 +391,9 @@
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "https://www.youtube.com/watch?v=kzpggTj-ztU",
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -397,7 +402,7 @@
             }
           },
           "title1": "PRO EQUIPMENT",
-          "caption1": "<b>We use the latest professional stump grinding equipment. Our compact machine will allow us to reach stumps with little to no lawn damage and we can easily fit through a 36\" gate.</b><br>",
+          "caption1": "<b>We have the latest professional stump grinding equipment. Our compact machine will allow us to reach stumps with little to no lawn damage and we can easily fit through a 36\" gate.</b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -421,7 +426,7 @@
             }
           },
           "title2": "SAFE AND INSURED",
-          "caption2": "<b>We follow pro safety standards, including utility location, personal safety gear and guard screens around our machine to protect your home. We're fully insured to work at your home or business.</b><br>",
+          "caption2": "<b>We follow pro safety standards, including utility location, personal safety gear and guard screens around our machine to protect your home. We're also fully insured to work at your home or business.</b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -445,7 +450,7 @@
             }
           },
           "title3": "RECYCLE!",
-          "caption3": "<b>We'll grind your stump and surface roots to a depth of 8\"-12\", leaving you with a neat pile of wood chips in it's place. The valuable mulch can be later used in a natural bed area or compost pile. Recycle your tree stump!</b><br>",
+          "caption3": "<b>We'll grind your stump and surface roots to a depth of 8\"-12\", leaving you with a neat pile of wood chips in it's place. This valuable mulch can be later used in a natural bed area or compost pile. Recycle your tree stump!</b><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -536,7 +541,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#7c706b",
             "bgColorRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true
@@ -572,10 +577,52 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
         },
         {
+          "_styles": {},
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-f",
+          "_params": {
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=clamKWFS81c",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-size": "16px"
+            },
+            "UL": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            }
+          },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": 3,
@@ -591,7 +638,7 @@
           },
           "logo": {
             "image": {
-              "src": "qrc:/web/app/builder/images/footer-logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-265x175.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -609,24 +656,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>ClearPath Outdoor<br>1907 Patton Dr.<br>Indianapolis, Indiana 46224",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: &nbsp;ClearPath@gmail.com<br>\nPhone: &nbsp;317-331-8097<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>INPAWS</li><li>WoodyWarehouse</li><li><br></li><li><br></li></ul>",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "15px"
-            },
-            "STRONG": {
-              "font-size": "16px"
-            },
-            "UL": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "15px"
-            }
-          }
+          "text1": "<strong>ADDRESS</strong><br><br>ClearPath Outdoor<br>1907 Patton Dr.<br>Indianapolis, Indiana 46224",
+          "text2": "<strong>CONTACTS</strong><br>\n<br>Email: &nbsp;<br>CLEARPATHOUTDOOR<span style=\"line-height: 1.7em;\">@gmail.com</span><br>\nPhone: &nbsp;317-331-8097<br><br>",
+          "text3": "<div><font size=\"3\"><b><br></b></font></div><ul class=\"mbr-contacts__list\"><li><br></li></ul>"
         }
       ]
     }
